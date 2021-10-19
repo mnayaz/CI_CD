@@ -1,1 +1,3 @@
 This is my new file getting added to GIT
+
+This is my second line
